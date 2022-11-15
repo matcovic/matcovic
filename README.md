@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matcovic&label=Profile%20views&color=0e75b6&style=flat" alt="matcovic" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matcovic&label=Profile%20views&color=0e75b6&style=flat" alt="matcovic" /> </p> -->
 
 <p align="left">
 </p>
